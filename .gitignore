@@ -1,0 +1,6 @@
+# Todos los archivos de configuración del proyecto en la IDE que utilice
+*.classpath
+*.project
+
+# Todos los archivos compilados
+/bin/
